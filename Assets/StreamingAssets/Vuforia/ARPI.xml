@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="kursi" size="4420.000000 4420.000000" />
+    <ImageTarget name="tempatsampah" size="420.000000 420.000000" />
+    <ImageTarget name="papantulis" size="420.000000 420.000000" />
+    <ImageTarget name="penghapus" size="420.000000 420.000000" />
+    <ImageTarget name="jam" size="420.000000 420.000000" />
+    <ImageTarget name="meja" size="420.000000 420.000000" />
+  </Tracking>
+</QCARConfig>
